@@ -1,0 +1,4 @@
+services:
+  jdk:
+    build: jdk
+    image: balcony-data-jdk
